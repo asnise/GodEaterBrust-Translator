@@ -1,0 +1,2486 @@
+Rank:2　With a heavy weighted attachment.
+Rank:2　With a heavy weighted attachment.
+Rank:3　With a heavy weighted attachment.
+Rank:4　Swapped with a heavier iron mass.
+Rank:4　Swapped with a heavier iron mass.
+Rank:6　Swapped with a heavier iron mass.
+Rank:5　Air compressed for greater impact.
+Rank:7　Air compressed for greater impact.
+Rank:8　Air compressed for greater impact.
+Rank:9　Air compressed for greater impact.
+Rank:7　Can easily crush giant Aragami bones.
+Rank:10　Can easily crush giant Aragami bones.
+Rank:1　A dual-edged, cast-iron greatsword.
+Rank:1　A dual-edged, cast-iron greatsword.
+Rank:3　A dual-edged, cast-iron greatsword.
+Rank:4　Easily slices up thick beast flesh.
+Rank:5　Easily slices up thick beast flesh.
+Rank:6　Easily slices up thick beast flesh.
+Rank:6　Swiftly slashes through demon flesh.
+Rank:7　Swiftly slashes through demon flesh.
+Rank:8　Swiftly slashes through demon flesh.
+Rank:10　Swiftly slashes through demon flesh.
+Rank:5　One swing can slice a god in half.
+Rank:7　One swing can slice a god in half.
+Rank:9　One swing can slice a god in half.
+Rank:10　One swing can slice a god in half.
+Rank:3　Enables agile movements like a tiger's.
+Rank:4　Enables agile movements like a tiger's.
+Rank:6　Enables agile movements like a tiger's.
+Rank:8　Has seen many victorious battles.
+Rank:8　Has seen many victorious battles.
+Rank:9　Has seen many victorious battles.
+Rank:6　For surviving the lonely battlefields.
+Rank:8　For surviving the lonely battlefields.
+Rank:10　For surviving the lonely battlefields.
+Rank:6　Allows you to reign as king of nature.
+Rank:9　Allows you to reign as king of nature.
+Rank:10　Allows you to reign as king of nature.
+Rank:2　Rips apart Aragami muscle fibers.
+Rank:2　Rips apart Aragami muscle fibers.
+Rank:4　The blades can easily dig into flesh.
+Rank:5　The blades can easily dig into flesh.
+Rank:6　The blades can easily dig into flesh.
+Rank:6　Designed without considering defense.
+Rank:8　Designed without considering defense.
+Rank:9　Designed without considering defense.
+Rank:8　Ignores defense. Berserker only.
+Rank:9　Ignores defense. Berserker only.
+Rank:10　Ignores defense. Berserker only.
+Rank:5　Ignites your allies' will to fight.
+Rank:6　Ignites your allies' will to fight.
+Rank:7　Fires up your allies' fighting spirit.
+Rank:8　Fires up your allies' fighting spirit.
+Rank:8　Shares holy power with your allies.
+Rank:9　Shares holy power with your allies.
+Rank:9　Grants your allies holy protection.
+Rank:10　Grants your allies holy protection.
+Rank:1　A demon faced sword. Blaze/Radial
+Rank:2　A demon faced sword. Blaze/Radial
+Rank:3　A demon faced sword. Blaze/Radial
+Rank:4　Shows value when in danger. Blaze/Radial
+Rank:5　Shows value when in danger. Blaze/Radial
+Rank:5　Raises devour abilities. Spark/Radial
+Rank:6　Raises devour abilities. Spark/Radial
+Rank:8　Raises devour abilities. Spark/Radial
+Rank:7　Tested through hell. Freeze/Radial
+Rank:8　Tested through hell. Freeze/Radial
+Rank:9　Tested through hell. Freeze/Radial
+Rank:3　Frozen edged blade. Freeze/Bomb
+Rank:6　Frozen edged blade. Freeze/Bomb
+Rank:5　Electric edged blade. Spark/Bomb
+Rank:6　Electric edged blade. Spark/Bomb
+Rank:8　Electric edged blade. Spark/Bomb
+Rank:10　Electric edged blade. Spark/Bomb
+Rank:4　Flame edged blade. Blaze/Bomb
+Rank:6　Flame edged blade. Blaze/Bomb
+Rank:7　Flame edged blade. Blaze/Shot
+Rank:10　Flame edged blade. Blaze/Shot
+Rank:7　A mind-calming blade. Freeze/Bomb
+Rank:9　A mind-calming blade. Freeze/Bomb
+Rank:10　A mind-calming blade. Freeze/Bomb
+Rank:2　Sparks upon contact. Spark/Bomb
+Rank:2　Sparks upon contact. Spark/Bomb
+Rank:4　Collects more Oracle cells. Divine/Bomb
+Rank:5　Collects more Oracle cells. Divine/Bomb
+Rank:7　Collects more Oracle cells. Divine/Bomb
+Rank:4　Enveloped in cold air. Freeze/Bomb
+Rank:5　Enveloped in cold air. Freeze/Bomb
+Rank:7　Enveloped in cold air. Freeze/Shot
+Rank:8　Enveloped in cold air. Freeze/Shot
+Rank:8　Scrapes off more cells. Spark/Bomb
+Rank:9　Scrapes off more cells. Spark/Bomb
+Rank:10　Scrapes off more cells. Spark/Bomb
+Rank:1　Causes the Impulse Edge. Blaze/Bomb
+Rank:1　Causes the Impulse Edge. Blaze/Bomb
+Rank:2　Freezes the open wound. Freeze/Bomb
+Rank:3　Freezes the open wound. Freeze/Bomb
+Rank:6　Freezes the open wound. Freeze/Bomb
+Rank:4　Excites the arc's cells. Spark/Bomb
+Rank:5　Excites the arc's cells. Spark/Bomb
+Rank:7　Excites the arc's cells. Spark/Shot
+Rank:9　Excites the arc's cells. Spark/Shot
+Rank:7　Destroys cell-binding. Blaze/Bomb
+Rank:8　Destroys cell-binding. Blaze/Bomb
+Rank:10　Destroys cell-binding. Blaze/Bomb
+Rank:2　Immobilizes the gods. Divine/Bomb
+Rank:4　Immobilizes the gods. Divine/Bomb
+Rank:5　Immobilizes the gods. Divine/Bomb
+Rank:7　Sends the gods to hell. Divine/Bomb
+Rank:8　Sends the gods to hell. Divine/Bomb
+Rank:9　Sends the gods to hell. Divine/Bomb
+Rank:6　Drags gods into the abyss. Divine/Shot
+Rank:7　Drags gods into the abyss. Divine/Shot
+Rank:8　Brings death to the gods. Divine/Shot
+Rank:10　Brings death to the gods. Divine/Shot
+Rank:3　For the self-defense of a cute girl.
+Rank:4　For the self-defense of a cute girl.
+Rank:5　For the self-defense of a fair maiden.
+Rank:6　For the self-defense of a fair maiden.
+Rank:7　For the self-defense of a pretty lady.
+Rank:9　For the self-defense of a pretty lady.
+Rank:8　For the self-defense of a dainty woman.
+Rank:10　For the self-defense of a dainty woman.
+Rank:1　The best in lightweight and mobility.
+Rank:1　The best in lightweight and mobility.
+Rank:3　Heats up to iron-melting temperatures.
+Rank:5　Heats up to iron-melting temperatures.
+Rank:10　Heats up to iron-melting temperatures.
+Rank:4　Generates powerful electric shock.
+Rank:6　Generates powerful electric shock.
+Rank:8　Generates powerful electric shock.
+Rank:6　Halts the movement of Oracle Cells.
+Rank:7　Halts the movement of Oracle Cells.
+Rank:9　Halts the movement of Oracle Cells.
+Rank:1　Emits chilled air and loud sound.
+Rank:3　Emits chilled air and loud sound.
+Rank:4　Emits chilled air and loud sound.
+Rank:5　Emits chilled air and loud sound.
+Rank:2　Melts away the Oracle Cell lining.
+Rank:4　Melts away the Oracle Cell lining.
+Rank:6　Melts away the Oracle Cell lining.
+Rank:7　Melts away the Oracle Cell lining.
+Rank:7　Freezes and destroys the Aragami.
+Rank:8　Freezes and destroys the Aragami.
+Rank:9　Freezes and destroys the Aragami.
+Rank:8　Changes things to plasma upon contact.
+Rank:9　Changes things to plasma upon contact.
+Rank:10　Changes things to plasma upon contact.
+Rank:2　A sword that dulls Aragami behavior.
+Rank:3　A sword that dulls Aragami behavior.
+Rank:4　A sword that dulls Aragami behavior.
+Rank:4　Prevents an Aragami from attacking back.
+Rank:5　Prevents an Aragami from attacking back.
+Rank:6　Prevents an Aragami from attacking back.
+Rank:6　A sword that stops Aragami movement.
+Rank:8　A sword that stops Aragami movement.
+Rank:10　A sword that stops Aragami movement.
+Rank:7　Prevents Aragami from standing.
+Rank:8　Prevents Aragami from standing.
+Rank:9　Prevents Aragami from standing.
+Rank:2　Weakens the enemy with poison.
+Rank:3　Weakens the enemy with poison.
+Rank:5　Weakens the enemy with poison.
+Rank:4　Continously releases liquid venom.
+Rank:5　Continously releases liquid venom.
+Rank:6　The enemy will die, slowly but surely.
+Rank:10　The enemy will die, slowly but surely.
+Rank:7　Sprays poison mist that burns the body.
+Rank:8　Sprays poison mist that burns the body.
+Rank:10　Sprays poison mist that burns the body.
+Rank:4　Increases a bullet's invasive potential.
+Rank:5　Increases a bullet's invasive potential.
+Rank:6　Grants the wielder with god's blessing.
+Rank:6　Grants the wielder with god's blessing.
+Rank:7　Allows the bullet to devour your enemy.
+Rank:8　Allows the bullet to devour your enemy.
+Rank:9　A gun that can pierce through god.
+Rank:10　A gun that can pierce through god.
+Rank:1　Pierces with powerful sniping power.
+Rank:2　Pierces with powerful sniping power.
+Rank:3　A freezing aura surrounds the bullet.
+Rank:4　A freezing aura surrounds the bullet.
+Rank:7　Chilly air gathers around this gun.
+Rank:9　Chilly air gathers around this gun.
+Rank:6　The bullet trajectory can cause a storm.
+Rank:8　The bullet trajectory can cause a storm.
+Rank:10　The bullet trajectory can cause a storm.
+Rank:1　With electricity accelerated bullets.
+Rank:2　With electricity accelerated bullets.
+Rank:4　With more efficient energy conversion.
+Rank:5　With more efficient energy conversion.
+Rank:8　Gathers electricity from the air.
+Rank:10　Gathers electricity from the air.
+Rank:7　Can shoot thunderbolts of god's wrath.
+Rank:9　Can shoot thunderbolts of god's wrath.
+Rank:1　The bullet emits intense heat.
+Rank:4　The bullet emits intense heat.
+Rank:5　Its trajectory is marked by heat waves.
+Rank:6　Its trajectory is marked by heat waves.
+Rank:7　A wall of hot air surrounds the wielder.
+Rank:10　A wall of hot air surrounds the wielder.
+Rank:8　The scorching heat can melt any metal.
+Rank:9　The scorching heat can melt any metal.
+Rank:1　The barrel is made to lessen the impact.
+Rank:3　The barrel is made to lessen the impact.
+Rank:3　Sinners will burn in the fires of hell.
+Rank:4　Sinners will burn in the fires of hell.
+Rank:5　Sinners will be hit with lightning.
+Rank:7　Sinners will be hit with lightning.
+Rank:7　Sinners will freeze in ice.
+Rank:9　Sinners will freeze in ice.
+Rank:1　A dragon's sorrow weeps within.
+Rank:2　A dragon's sorrow weeps within.
+Rank:4　A leopard's gloom bursts away.
+Rank:5　A leopard's gloom bursts away.
+Rank:6　A hawk's wail drifts in the air.
+Rank:8　A hawk's wail drifts in the air.
+Rank:8　A tiger's anger overflows.
+Rank:9　A tiger's anger overflows.
+Rank:2　Large caliber gun with crushing power.
+Rank:3　Large caliber gun with crushing power.
+Rank:4　Blasts away an Aragami into pieces.
+Rank:5　Blasts away an Aragami into pieces.
+Rank:6　Blasts away an Aragami into dust.
+Rank:10　Blasts away an Aragami into dust.
+Rank:7　Blasts away an Aragami into ash.
+Rank:9　Grinds down on Aragami bones.
+Rank:9　Blasts away an Aragami into ash.
+Rank:1　Each explosion causes much impact.
+Rank:1　Each explosion causes much impact.
+Rank:4　Requires strong muscles to shoot.
+Rank:5　Requires strong muscles to shoot.
+Rank:7　Trains the user how to brace for impact.
+Rank:9　Trains the user how to brace for impact.
+Rank:8　Only a veteran warrior can use it.
+Rank:3　Each explosion causes much impact.
+Rank:10　Only a veteran warrior can use it.
+Rank:3　Increases a bullet's invasive behavior.
+Rank:4　Increases a bullet's invasive behavior.
+Rank:5　Easily annihilates smaller Aragami.
+Rank:6　Easily annihilates smaller Aragami.
+Rank:7　Causes status abnormality in Aragami.
+Rank:9　Causes status abnormality in Aragami.
+Rank:8　Sends the Aragami to the heavens.
+Rank:10　Sends the Aragami to the heavens.
+Rank:2　Bites down on the Aragami's throat.
+Rank:3　Bites down on the Aragami's throat.
+Rank:4　Tears away Aragami flesh.
+Rank:5　Tears away Aragami flesh.
+Rank:6　Grinds down on Aragami bones.
+Rank:7　Grinds down on Aragami bones.
+Rank:8　Can swallow a god whole.
+Rank:9　Can swallow a god whole.
+Rank:2　A strange, but intriguing little gun.
+Rank:3　A strange, but intriguing little gun.
+Rank:4　Your mind will dance with excitement.
+Rank:5　Your mind will dance with excitement.
+Rank:8　Your mind will dance with excitement.
+Rank:6　Sparks a hint of love in your heart.
+Rank:7　Sparks a hint of love in your heart.
+Rank:9　Love can cause miracles.
+Rank:10　Love can cause miracles.
+Rank:1　Can speed-launch multiple bullets.
+Rank:1　Can speed-launch multiple bullets.
+Rank:3　Increases the user's kinetic abilities.
+Rank:4　Increases the user's kinetic abilities.
+Rank:5　A handy gun that sword users also like.
+Rank:6　A handy gun that sword users also like.
+Rank:7　Enables movement of god-like speeds.
+Rank:10　Enables movement of god-like speeds.
+Rank:1　Can fight againt various Aragami.
+Rank:3　Can fight againt various Aragami.
+Rank:5　Increases speed of item use.
+Rank:7　Increases speed of item use.
+Rank:9　Perfect for fighting on uneven terrain.
+Rank:10　Perfect for fighting on uneven terrain.
+Rank:8　Allows you to hunt unknown enemies.
+Rank:10　Allows you to hunt unknown enemies.
+Rank:4　A small gun with crushing abilities.
+Rank:5　A small gun with crushing abilities.
+Rank:5　Increases effectiveness of loadout
+Rank:6　Increases effectiveness of loadout
+Rank:7　Increases the ability to fill up Oracle cells
+Rank:8　Increases the ability to fill up Oracle cells
+Rank:7　A heavy gun that can sink a battleship.
+Rank:9　A heavy gun that can sink a battleship.
+Rank:3　A very fuel efficient gun.
+Rank:4　A very fuel efficient gun.
+Rank:5　Destined to shoot until it breaks.
+Rank:6　Destined to shoot until it breaks.
+Rank:8　Destined to shoot until it breaks.
+Rank:6　Specializes in dangerous shoot-outs.
+Rank:8　Specializes in dangerous shoot-outs.
+Rank:7　It's impossible to stop its gunfire.
+Rank:9　It's impossible to stop its gunfire.
+Rank:2　Allows your body to become more agile.
+Rank:2　Allows your body to become more agile.
+Rank:3　Allows your body to become more agile.
+Rank:4　Jump around rocky terrain with ease.
+Rank:5　Jump around rocky terrain with ease.
+Rank:6　Jump around rocky terrain with ease.
+Rank:7　Lets you dodge various attacks.
+Rank:9　Lets you dodge various attacks.
+Rank:1　A round, wide protective shield.
+Rank:2　A round, wide protective shield.
+Rank:3　A round, wide protective shield.
+Rank:4　Strong against Oracle Cell invasion.
+Rank:6　Strong against Oracle Cell invasion.
+Rank:7　Strong against Oracle Cell invasion.
+Rank:8　For those who need quick reflexes.
+Rank:9　For those who need quick reflexes.
+Rank:1　Strong enough to block local impact.
+Rank:1　Strong enough to block local impact.
+Rank:3　Strong enough to block local impact.
+Rank:5　With high-speed aiming abilities.
+Rank:6　With high-speed aiming abilities.
+Rank:7　With high-speed aiming abilities.
+Rank:8　For survival through chaotic battles.
+Rank:9　For survival through chaotic battles.
+Rank:4　Given the forgiveness of the gods.
+Rank:5　Given the forgiveness of the gods.
+Rank:6　Baptized by the gods.
+Rank:7　Baptized by the gods.
+Rank:8　Gifted with the mercy of the gods.
+Rank:8　Gifted with the mercy of the gods.
+Rank:9　Devours the power of the gods.
+Rank:10　Devours the power of the gods.
+Rank:2　Increases a Gods Eater's brute strength.
+Rank:3　Increases a Gods Eater's brute strength.
+Rank:4　Maximizes momentary power to the limit.
+Rank:5　Maximizes momentary power to the limit.
+Rank:6　Makes the wielder more violent.
+Rank:7　Makes the wielder more violent.
+Rank:8　Makes you want to destroy everything.
+Rank:9　Makes you want to destroy everything.
+Rank:2　Eye-catching enough to be distraction.
+Rank:2　Eye-catching enough to be distraction.
+Rank:3　Eye-catching enough to be distraction.
+Rank:4　For leaders who protect their team.
+Rank:6　For leaders who protect their team.
+Rank:7　For leaders who protect their team.
+Rank:8　Raises team moral with charisma.
+Rank:9　Raises team moral with charisma.
+Rank:1　Useful for any situation.
+Rank:2　Useful for any situation.
+Rank:3　Useful for any situation.
+Rank:4　Makes it easier to steal Oracle Energy.
+Rank:6　Makes it easier to steal Oracle Energy.
+Rank:7　Makes it easier to steal Oracle Energy.
+Rank:8　Allows you to control the Arc freely.
+Rank:9　Allows you to control the Arc freely.
+Rank:1　Designed with team support in mind.
+Rank:1　Designed with team support in mind.
+Rank:3　Designed with team support in mind.
+Rank:4　Perfect for rescuing teammates.
+Rank:6　Perfect for rescuing teammates.
+Rank:7　Perfect for rescuing teammates.
+Rank:8　Devoted to protecting teammates.
+Rank:9　Devoted to protecting teammates.
+Rank:2　The surface shines a strange luster.
+Rank:3　The surface shines a strange luster.
+Rank:4　Increases the user's life energy.
+Rank:5　Increases the user's life energy.
+Rank:7　Gives physical abilities of non-humans.
+Rank:8　Gives physical abilities of non-humans.
+Rank:9　Grants its wielder immortality.
+Rank:10　Grants its wielder immortality.
+Rank:4　A fake shield that lures misfortune.
+Rank:4　A fake shield that lures misfortune.
+Rank:5　A shield that predicts ill omen.
+Rank:6　A shield that predicts ill omen.
+Rank:7　Revenge screams for more evil.
+Rank:8　Revenge screams for more evil.
+Rank:9　Betrayal leads to destruction.
+Rank:10　Betrayal leads to destruction.
+Rank:1　Does not allow electricity to pass.
+Rank:2　Does not allow electricity to pass.
+Rank:3　Does not allow electricity to pass.
+Rank:4　Increases the Arc's electrical powers.
+Rank:5　Increases the Arc's electrical powers.
+Rank:7　Increases the Arc's electrical powers.
+Rank:8　Gathers electricity from objects.
+Rank:9　Gathers electricity from objects.
+Rank:2　Absorbs cold air for those on the move.
+Rank:2　Absorbs cold air for those on the move.
+Rank:3　Absorbs cold air for those on the move.
+Rank:4　Increases the Arc's freezing powers.
+Rank:6　Increases the Arc's freezing powers.
+Rank:7　Increases the Arc's freezing powers.
+Rank:8　Quickly vacuums heat from objects.
+Rank:9　Quickly vacuums heat from objects.
+Rank:1　A heat resistant metal sheet.
+Rank:1　A heat resistant metal sheet.
+Rank:3　A heat resistant metal sheet.
+Rank:4　Increases the Arc's heating powers.
+Rank:5　Increases the Arc's heating powers.
+Rank:6　Increases the Arc's heating powers.
+Rank:8　Instantly heats up surrounding objects.
+Rank:9　Instantly heats up surrounding objects.
+Rank:2　A normal person cannot lift this up.
+Rank:4　A normal person cannot lift this up.
+Rank:4　So heavy that it makes you immobile.
+Rank:5　So heavy that it makes you immobile.
+Rank:6　Heavy enough to stop a flood.
+Rank:7　Heavy enough to stop a flood.
+Rank:9　For the king who swore revenge on god.
+Rank:10　For the king who swore revenge on god.
+Rank:3　Extends burst time.
+Rank:4　Extends burst time.
+Rank:5　Very resistant against Oracle invasion.
+Rank:6　Very resistant against Oracle invasion.
+Rank:7　Can endure most attacks.
+Rank:8　Can endure most attacks.
+Rank:9　Its wielder cannot die easily.
+Rank:10　Its wielder cannot die easily.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+一二三四五六七八九十一二三四五六七八九十一二三
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Fenrir uniform issued upon deployment.
+Rank:2　Increases blazing attack power.
+Rank:2　Increases freezing attack power.
+Rank:1　Increases sparking attack power.
+Rank:1　Decreases sunder damage taken.
+Rank:1　Decreases crush damage taken.
+Rank:1　Decreases pierce damage taken.
+Rank:2　Increases sundering attack power.
+Rank:2　Increases crushing attack power.
+Rank:2　Increases piercing attack power.
+Rank:2　Decreases blaze damage taken.
+Rank:2　Decreases freeze damage taken.
+Rank:2　Decreases spark damage taken.
+Rank:2　Quickens aim-camera movement speed.
+Rank:2　Slows down aim-camera movement speed.
+Rank:2　Expands the area that can be guarded.
+Rank:2　Extends the lock-on time on an enemy.
+Rank:2　Minimizes the weapon's sound.
+Rank:3　Decreases the chance of leaks.
+Rank:3　Decreases the chance of stuns.
+Rank:3　Decreases the chance of jamming.
+Rank:3　Decreases the chance of venom.
+Rank:3　Increases item usage speed.
+Rank:3　Allows you to jump in mid-air.
+Rank:3　Increases melee combat attack power.
+Rank:3　Less chance for enemies to notice you.
+Rank:3　Increases Link-Aid abilities.
+Rank:3　Eliminates stiffness upon landing.
+Rank:3　Increases teammates' stats.
+Rank:3　More chance to obtain vendor items.
+Rank:6　Increases the number of core extraction.
+Rank:3　Increases Charge Crush attack power.
+Rank:4　Increases blazing attack power.
+Rank:4　Increases freezing attack power.
+Rank:4　Increases sparking attack power.
+Rank:4　Increases divine attack power.
+Rank:4　Decreases blaze damage taken.
+Rank:4　Decreases freeze damage taken.
+Rank:4　Decreases spark damage taken.
+Rank:4　Decreases divine damage taken.
+Rank:2　Increases the max limit to HP.
+Rank:3　Increases the max limit to OP.
+Rank:3　Increases the max limit to Stamina.
+Rank:4　Increases OP absorbed when devouring.
+Rank:4　Expands the area that can be guarded.
+Rank:5　Increases sundering attack power.
+Rank:5　Increases crushing attack power.
+Rank:5　Increases piercing attack power.
+Rank:5　Increases defense against sunder.
+Rank:5　Increases defense against crush.
+Rank:5　Increases defense against pierce.
+Rank:5　Increases shot-type Oracle effects.
+Rank:5　Increases laser-type Oracle effects.
+Rank:5　Increases radial-type Oracle effects.
+Rank:5　Increases bomb-type Oracle effects.
+Rank:5　Increases short blade attack power.
+Rank:5　Increases long blade attack power.
+Rank:5　Shortens charge time for Charge Crush.
+Rank:6　Increases item usage speed.
+Rank:6　Increases Link-Aid abilities.
+Rank:6　Allows you to always track the enemy.
+Rank:6　Increases teammates' stats.
+Rank:6　More chance to obtain vendor items.
+Rank:6　Increases ranged combat attack power.
+Rank:6　Increases melee combat attack power.
+Rank:7　Increases blaze/spark attack power.
+Rank:7　Increases freeze/divine attack power.
+Rank:8　Increases spark/freeze attack power.
+Rank:7　Increases divine/blaze attack power.
+Rank:7　Increases defense against blaze/spark.
+Rank:7　Increases defense against freeze/divine.
+Rank:7　Increases defense against spark/freeze.
+Rank:7　Increases defense against divine/blaze.
+Rank:4　Increases the max limit to HP.
+Rank:4　Increases the max limit to OP.
+Rank:4　Increases the max limit to Stamina.
+Rank:7　Expands the area that can be guarded.
+Rank:7　Extends burst time.
+Rank:8　Becomes immune to leaks.
+Rank:8　Becomes immune to stuns.
+Rank:8　Becomes immune to jamming.
+Rank:8　Becomes immune to venom.
+Rank:7　Increases sundering attack power.
+Rank:7　Increases crushing attack power.
+Rank:7　Increases piercing attack power.
+Rank:8　Increases defense against sunder.
+Rank:8　Increases defense against crush.
+Rank:8　Increases defense against pierce.
+Rank:7　Increases the max limit to HP.
+Rank:8　Increases the max limit to OP.
+Rank:8　Increases the max limit to Stamina.
+Rank:8　Specializes in ranged attacks.
+Rank:9　Perfect for commanding battle.
+Rank:9　Reveals true powers in dire moments.
+Rank:9　Makes it easier to rid of small enemies.
+Rank:9　Slowly weakens the enemy.
+Rank:8　Increases short blade attack power.
+Rank:7　Increases long blade attack power.
+Rank:8　Shortens charge time for Charge Crush.
+Rank:9　Allows you to jump in mid-air.
+Rank:9　Increases overall attack power.
+Rank:10　Decreases for multiple status effects.
+Rank:10　Increases ranged combat attack power.
+Rank:10　Increases melee combat attack power.
+A purple hoodie for the night life.
+A pale khaki hoodie with elegance.
+A flashy red and black hoodie.
+A hoodie that calls out for attention.
+A pretty hoodie dyed with flowers.
+A gentle, coffee-colored hoodie.
+A blue hoodie, inspired by waves.
+Purple shorts for the night life.
+Pale khaki shorts with elegance.
+Flashy red and black shorts.
+Shorts that calls out for attention.
+Pretty shorts dyed with flowers.
+Gentle, coffee-colored shorts.
+Blue shorts, inspired by waves.
+A dark, chic, mature suit.
+A cool suit that stands out at parties.
+An alluring suit that captivates others.
+A popular suit among gamblers.
+A suit that reflects the ocean floor.
+A sexy suit that shines on stage.
+A suit for the calm adult.
+Dark, chic, mature slacks.
+Cool slacks that stands out at parties.
+Alluring slacks that captivate others.
+Popular slacks among gamblers.
+Slacks that reflect the ocean floor.
+Sexy slacks that shine on stage.
+Slacks for the calm adult.
+A jacket that blends in with nature.
+A bright and colorful jacket.
+A jacket for the protective officer.
+A dark jacket for undercover action.
+A jacket that shines vividly at night.
+A martial artist's jacket.
+A ranger's jacket for many tasks.
+Pants that blend in with nature.
+Bright and colorful pants.
+Pants for the protective officer.
+Dark pants for undercover action.
+Pants that shine vividly at night.
+A martial artist's pants.
+A ranger's pants for many tasks.
+A pendant that reflects sunlight.
+A black and red pendant for the baddie.
+A blue pendant to go with the big wave.
+A classy, dressy green pendant.
+A trendy style pendant.
+A flirty red pendant.
+An orange pendant that glistens on sand.
+Trunks that reflect sunlight.
+Black and red trunks for the baddie.
+Blue trunks to go with the big wave.
+Classy, dressy green trunks.
+Trendy style trunks.
+Flirty red trunks.
+Orange trunks that glisten on sand.
+A black coat like that of a devil's.
+A white coat like that of an angel's.
+A clean coat for the nobles.
+An upscale coat for the gentleman.
+An evil coat that hides conspiracy.
+An expensive-looking golden coat.
+A coat soaked in fresh blood.
+Black nickers like that of a devil's.
+White nickers like that of an angel's.
+Clean nickers for the nobles.
+Upscale nickers for the gentleman.
+Evil nickers that hide conspiracy.
+Expensive-looking golden nickers.
+Nickers soaked in fresh blood.
+A vest that shines like flowing water.
+A vest of a beast that roams in town.
+An attractively alluring vest.
+An elegant but rough vest for nobles.
+A vest with natural calmness.
+A vest with pretty fruit-colors.
+A green vest that blends with nature.
+Pants that shine like flowing water.
+Pants of a beast that roams in town.
+Attractively alluring pants.
+Elegant but rough pants for nobles.
+Pants with natural calmness.
+Pants with pretty fruit-colors.
+Green pants that blend with nature.
+A coat that gathers people's attention.
+A green coat with a sweet scent.
+A coat with an exotic feel.
+A thick coat for the gang boss.
+A Santa Claus coat for all occasions.
+A rich, graceful looking coat.
+A cute, trendy blue coat.
+Tights that gather people's attention.
+Green tights with a sweet scent.
+Tights with an exotic feel.
+Thick tights for the gang boss.
+Santa Claus tights for all occasions.
+Rich, graceful looking tights.
+Cute, trendy blue tights.
+Layers that are easy to move around in.
+Red and black, sporty layers.
+Layers designed from the navy uniform.
+Layers for the battle-prepared soldier.
+Layers for the clean and honest police.
+Layers that alarm people nearby.
+Layers for the tactical theorists.
+Slits that are easy to move around in.
+Red and black, sporty slits.
+Slits designed from the navy uniform.
+Slits for the battle-prepared soldier.
+Slits for the clean and honest police.
+Slits that alarm people nearby.
+Slits for the tactical theorists.
+A sharp, mutated rib bone.
+A thick, rigid outer shell.
+A highly elastic pixie liver.
+A sharp, mutated backbone.
+A dense liquid that stabilizes metal.
+A pixie shell that generates cold air.
+A pixie shell that generates heat.
+A pixie shell that builds static charge.
+Used for modifying Aragami composition.
+An angel's blubbery elastic shell.
+A fallen angel's blubbery elastic shell.
+A drill-like fang with a sharp point.
+The flexible crest of a dragon.
+A lightweight and durable fin.
+Resistant to Oracle Cell invasion.
+A horn that won't reshape with heat.
+Durable against heat and impact.
+The flexible outer skin of a dragon.
+Resistant to Oracle Cell invasion.
+Solid form of oxidized draconic blood.
+Durable against heat and impact.
+A pincer that won't reshape with heat.
+Shoots highly invasive Oracle-shots.
+Oil that dissolves various minerals.
+Can even stop thermal vibration.
+Shoots frozen bullets.
+Likely to retain very high heat.
+A flexible crest that retains heat.
+A scale that builds up heat.
+Solid form of oxidized wrym blood.
+A lightweight and durable fin.
+A horn that constantly emits heat.
+A fang that constantly emits heat.
+A flexible crest that absorbs heat.
+A dense crystal made of bloodstones.
+A fang that can melt even steel.
+Shoots blazing bullets.
+Flexible skin that absorbs the cold.
+Solid form of oxidized basilisk blood.
+Shoots freezing bullets.
+A lightweight and durable fin.
+A horn that constantly emits cold air.
+A fang that constantly emits cold air.
+A flexible crest that absorbs the cold.
+A sharp fang that is easy to work with.
+A round, durable exoskeleton.
+A tail with the face of a demon.
+A dense crystal made of bloodstones.
+A dense crystal made of bloodstones.
+Liquid form of boiling fermented blood.
+Liquid form of freezing fermented blood.
+Causes ice-burns if touched.
+The sharp exoskeleton of an ogre head.
+An ogre's tail with sharp blades.
+Causes heat-burns if touched.
+The head of a mean-looking ogre.
+Causes electrical shock if touched.
+A horn that attracts lightning.
+The head of a mean-looking ogre.
+Stabbed the throats of its prey.
+Ripped apart the flesh of its prey.
+Looks almost like blood-soaked fabric.
+A very hard and tough skeleton.
+A semi-eternal electric generator.
+Fur that is as hard as wires.
+Instantly disperses energy.
+Stabbed the throats of other beasts.
+Solid form of oxidized beast blood.
+A beast skull that retains electricity.
+A thick bone that supports the limbs.
+Beast fur that retains electricity.
+Instantly displaces heat.
+A generator with strong discharge.
+Looks almost like blood-soaked fabric.
+Rips apart its prey and numbs them.
+A wing that retains high voltage.
+Can kill an Aragami in one strike.
+Disperses cold air to a wide area.
+Stone armor for protecting skin.
+Has sipped on the blood of its prey.
+The robust bone in a queen's limbs.
+Crystalline armor for protecting skin.
+A piece of the queen's crown.
+Wings that feel like running water.
+Solid form of oxidized queen blood.
+A queen's skull that emits cold air.
+Wings that feel like ice-cold water.
+A dignified queen's crown.
+The fang of a long reigning queen.
+The crown of a long reigning queen.
+A skull with an evil twisty horn.
+A claw that can instantly kill its prey.
+A wing enveloped in a dark aura.
+Sucks away life energy from Aragami.
+Solid form of oxidized emperor blood.
+A black, toughened fur.
+A limb enveloped in a dark aura.
+The crown of the ruler of beasts.
+The claw of the ruler of beasts.
+The wing of the ruler of beasts.
+Made of highly-stabilized organic metal.
+A very hard, but lightweight claw.
+Binds fibers that are hard to process.
+Made of highly-stabilized organic metal.
+A very hard, but lightweight talon.
+Binds fibers that are hard to process.
+A cranial skeleton like a vampire's.
+A light, strong, elastic wing-bone.
+Flesh with instantaneous retraction.
+A lightweight feather.
+A lightweight feather tip.
+A tough layer of skin under the skull.
+Flesh with instantaneous retraction.
+A lightweight sinew.
+A wing that retains electricity.
+A cranial skeleton like a vampire's.
+A energy collecting barrel.
+Generates strong electrical charges.
+A tubular bone that acts like a coil.
+A wing that emits hot heat.
+Burns anything that comes in contact.
+Creates flammable liquid within.
+A crown that emits hot heat.
+A light, strong, elastic wing-bone.
+A wing that emits scorching heat.
+Turns anything that it touches to ash.
+Melts and binds together Aragami fibers.
+Bone that creates molten organic metal.
+Marks the absolute power of a king.
+A thick, sturdy bone of a limb.
+A small bone that emits a dull sound.
+A tail with a soft bone within.
+A piece of torso flesh.
+Exoskeleton used for thermal insulation.
+A fragment of a face cover.
+An exoskeleton that covers the torso.
+A thick, sturdy bone of a limb.
+A tail with a soft bone within.
+Solid form of oxidized simian blood.
+A torso that emits loud noises.
+A bone that emits loud noises.
+An exoskeleton that covers the torso.
+A tail with an elastic bone within.
+Cloth that is hard to cut through.
+Solid form of oxidized Hanuman blood.
+Resistant to environmental changes.
+A thick shell that covers the face.
+An exoskeleton that emits cold air.
+A thick, sturdy bone of a limb.
+Solid form of oxidized Wukong blood.
+A thick shell that covers the face.
+An exoskeleton that freezes all.
+A thick, sturdy bone of a limb.
+A dense crystal made of bloodstones.
+A bone that emits loud echoes.
+Blood that releases a mystical scent.
+A feather that releases strong static.
+Constantly discharges electricity.
+A thick, sturdy bone of a limb.
+Immune to environmental changes.
+A dense crystal made of bloodstones.
+Blood that releases a mystical scent.
+A feather that unleashes electricity.
+A feather that releases gases.
+A thin, but strong leg bone.
+A feather that emits an alluring glow.
+A very lightweight muscle fiber.
+A piece of an elegant crown.
+An exoskeleton with a silky shine.
+A leg bone that is impossible to bend.
+A shiny, elegant crown.
+Solidified tears of blood.
+A feather that can gather air.
+Poison dust that can quickly kill.
+A light, flexible muscle fiber.
+Poison dust that can quickly kill.
+A feather that makes you hallucinate.
+A piece of crown with a strange aura.
+A wing patterned with devil eyes.
+A crown with a strange aura.
+Solidified tears of blood.
+A feather that makes you hallucinate.
+An eye that gives eternal pleasure.
+A crown with a deathly aura.
+Poison dust that steals consciousness.
+A feather that releases gases.
+An eye that shows you death.
+A feather enveloped in darkness.
+Terrifies those who see it to a halt.
+Solidified tears of blood.
+A dense crystal made of bloodstones.
+A piece of a very large, heavy needle.
+A shield that is harder than diamond.
+An exoskeleton that is hard to cut.
+A flexible and malleable tail.
+A very large, heavy needle.
+A shield that is harder than diamond.
+Oil that builds up in Aragami joints.
+A very flexible endoskeleton.
+A piece of a needle that can melt steel.
+A shield that was hardened with heat.
+A needle that can melt steel.
+Precious oil that builds up in joints.
+A scorching exoskeleton.
+Solid form of oxidized Knt blood.
+A very hot exoskeleton.
+Solid form of blaze-knight blood.
+A flexible and malleable tail.
+A piece of a needle that shatters all.
+A dense crystal made of bloodstones.
+A shield with strong binding forces.
+A very flexible endoskeleton.
+A needle that shatters all.
+An external bone with binding forces.
+Solid form of spark-knight blood.
+A shield that emits electrical charges.
+A pungent liquid within the needle.
+A flexible and malleable tail.
+A dense crystal made of bloodstones.
+An exoskeleton with binding forces.
+A needle that drops lightning on it.
+Armor that does not conduct heat.
+An organ that alleviates impact.
+Oil that allows for quick mobility.
+An organ that creates missiles.
+A chain that organically changes.
+A dense frame that can support a giant.
+Can sense life from a distance away.
+Can sense life across a wide area.
+A skeletal organ that commands the body.
+Armor that is very strong against heat.
+An exoskeleton that cannot be cut.
+A cranial organ with sensory nerves.
+An organ that alleviates more impact.
+A very hard ore found in the abdomen.
+A purer version of Bruiser Grease.
+Strong against heat and impact.
+An exoskeleton that's been reinforced.
+A chain that is strong against impact.
+A very purified form of Bruiser Grease.
+Creates high-density missiles.
+Armor that is strong against the cold.
+Can instantly create cooling missiles.
+A skeletal organ that commands the body.
+Oil that also acts as a coolant.
+Can instantly create freezing missiles.
+A chain that won't ever heat up.
+Armor that nullifies the cold.
+Armor that generates cold air.
+Oil that can instantly cool armor parts.
+Creates unlimited freezing missiles.
+A piece of a battle-hardened crown.
+Resistant to Oracle Cell invasion.
+A gun that destroyed a single city.
+Oil that was mutated by Aragami blood.
+Armor that reflects various attacks.
+A chain reinforced over several years.
+A strong frame that can support a giant.
+Said to create hammers of god.
+A battle-hardened crown.
+Remains unrusted and undecayed.
+A very hard ore found in the abdomen.
+Has won alll battles it has encountered.
+Oil that moves the grinding armor.
+A horn that emits a strange white light.
+A claw that emits a strange white light.
+An organ that collects strong energy.
+An external skin that weakens impact.
+Red moss that moves like insect larvae.
+Helps to absorb and gather light.
+A compound eye that shines red.
+An organ that collects strong energy.
+A steel-like bone inside the leg.
+A horn that emits electrical charges.
+A claw that emits electrical charges.
+An organ that discharges strong energy.
+An external skin that abosrbs impact.
+Red moss that moves like insect larvae.
+A dense crystal made of bloodstones.
+Fur that moves like a snake.
+Venom that will kill in an instant.
+A dense crystal made of bloodstones.
+A horn that shines an evil red light.
+White moss that moves like insects.
+External skin that heals when destroyed.
+Helps to absorb and gather light.
+A garnet-like bone inside the leg.
+A crystal made of fused compound eyes.
+A dense crystal made of bloodstones.
+A piece of a halo that protects mankind.
+A blade-wire that guides mankind.
+A bone that supports mankind.
+A halo that protects mankind.
+A holy bone that supports mankind.
+Fluid that quenches mankind.
+Cloth that covers mankind.
+A sash that envelopes mankind.
+Holy cloth that covers mankind.
+Blood that quenches mankind.
+A bone that supports the gods.
+Cloth that covers the gods.
+Liquid that quenches the gods.
+A fool's cloth that covers the gods.
+A blade that binds mankind.
+A sash that chips away at mankind.
+A dark halo that chokes mankind.
+A wire that cuts apart mankind.
+A blade that ends mankind.
+A bone that crushes mankind.
+Cloth that strips mankind.
+Blood that dries up mankind.
+Cloth that covers yin and yang.
+Fluid that quenches yin and yang.
+Blood that quenches yin and yang.
+Cloth that covers yin and yang.
+A piece of crushed Aragami bone.
+A large bone, possibly from an Aragami.
+A horn often seen on an exoskeleton.
+A sharp fang that can act as a weapon.
+An outer shell with great toughness.
+A durable Aragami claw.
+Can stimulate Aragami senses from afar.
+Can instantly freeze bullets.
+Can instantly heat up bullets.
+Can instantly charge bullets.
+Increases a bullet's invasiveness.
+Absorbs light under certain conditions.
+Stimulates muscles to make you lighter.
+Stimulates muscles to make you lighter.
+An organ that hardens the skin.
+An organ that hardens the skin.
+Instantly creates explosions.
+Instantly creates explosions.
+Power rushes in, increasing stamina.
+Power rushes in, increasing stamina.
+A heavy-duty piece of thread.
+Oil that includes many impurities.
+A stone with electrical charge.
+Medicine that works on all diseases.
+An edible, medicinal plant.
+Thread that can stretch long and thin.
+A gun used during the old era.
+Used to make metal working tools.
+Natural fibers from cotton seeds.
+An elastic material strong to impact.
+A shield used during the old era.
+Weathered and eroded over the years.
+A broken, rusted blade.
+An empty case that held something.
+A drill with a broken motor.
+A common uniform used for labor.
+A rock with corroded mineral pieces.
+A commonly used first-aid kit.
+An easily modifiable aluminum alloy.
+A hard metal used for cutting tools.
+Was once used to make Japanese katanas.
+A lightweight and durable metal.
+An electromagnetic converter core.
+Emits high-frequency magnetic waves.
+A weathered piece of clothing.
+Synthetic resin that is easily molded.
+Tree bark harvested from a fossil tree.
+A metal mineral used mainly for alloy.
+An herb that excites Oracle Cells.
+Synthetic fiber with flexibility.
+Processed fur of the endangered sheep.
+Moistens your skin when sipped.
+Wood bark with beautiful grains.
+Mostly contains iron and nickel.
+A stone with a glass-line shine.
+A stone that can cause freeze-burns.
+A stone that can cause heat burns.
+A piece of bright, shiny metal.
+A smooth, high quality natural fiber.
+Pieces of gold found in rivers.
+A solvent of Oracle Cell cytoplasm.
+A small parasite that grows on twigs.
+A bitter serum that grants immortality.
+Blessed water that acts against evil.
+A small, carved wooden statue.
+Protects wood from harmful insects.
+A broken and useless man-powered car.
+Poisonous for humans if ingested.
+Poison that drips from animal corpses.
+Chemical fibers with synthetic resin.
+A flexible and soft piece of iron.
+A light, tough fiber used in aircrafts.
+A thread spun by insect Aragami.
+Elastic, heat-resistant fiber.
+Ore that sparks intensely when oxidized.
+Material for bottles and magnetic tape.
+Oil used for fuel and lubricant.
+A warm, stretchy knit cloth.
+Rank:4　一二三四五六七八九十一二三四五六七八九十一二三
+Oil used for fuel and lubricant.
+Mostly contains iron and nickel.
+A crystal with a glass-line shine.
+A crystal that can cause electric shock.
+A crystal that can cause freeze-burns.
+A crystal that can cause heat burns.
+A bright, shiny metal.
+Wood patterned steel used for blades.
+A precious metal used in accessories.
+An alloy steel with other metals.
+A sour serum that grants immortality.
+A carved wooden statue.
+Thread that can stretch long and thin.
+A gun used during the old era.
+Used to make metal working tools.
+Protects wood from harmful insects.
+Thermal fiber made from Polyester.
+A lightweight and durable case.
+Steel with many impurities.
+A normal blade that's been broken.
+A shield used during the old era.
+A weak drill with bumpy blades.
+A common uniform used for labor.
+A rock with corroded mineral pieces.
+A commonly used first-aid kit.
+A broken and useless man-powered car.
+An easily modifiable aluminum alloy.
+A lightweight bulletproof material.
+A hard metal used for cutting tools.
+Was once used to make Japanese katanas.
+A lightweight and durable metal.
+Easy to stretch and strong to pressure.
+An electromagnetic converter core.
+Poisonous for humans if ingested.
+Poisonous for humans if ingested.
+Natural hide used for leather shoes.
+A flexible and soft piece of iron.
+Emits high-frequency magnetic waves.
+A fiber material made of molten glass.
+A weathered piece of clothing.
+A precious metal used in accessories.
+Wood used in musical instruments.
+Elastic, heat-resistant fiber.
+Silver alloy spewed out by Aragami.
+A piece of fossil tree.
+Metal that won't corrode.
+A durable, resilient type of wood.
+Processed fur of the endangered goat.
+Emulsified Aragami oils.
+Oil used for fuel and lubricant.
+Wood with beautiful grains.
+Oracle crystal with a glass-line shine.
+Oracle crystal that can cause shocks.
+Oracle crystal that can freeze-burn.
+Oracle crystal that can cause burns.
+Wood patterned steel used for blades.
+A specially smooth, high quality fiber.
+A precious metal used in accessories.
+Parasitic Mistle that grows on Mistle.
+Chromoly steel that contains nickel.
+An Oracle stone that converts metals.
+A medicine that speeds up metabolism.
+A fine, carved wooden statue.
+A gun used during the old era.
+Special steel used for cutting metals.
+Used to prevent corrosion and oxidation.
+Aragami muscles without its core.
+An elastic material strong to impact.
+A shield used during the old era.
+Steel with many impurities.
+An evil, cursed looking sword.
+A shield used during the old era.
+Can be easily used as a cutting tool.
+A common uniform used for labor.
+A rock with corroded mineral pieces.
+A commonly used first-aid kit.
+A broken and useless man-powered car.
+A transparent, heat resistant plastic.
+Ceramic with more impact resistance.
+An alloy used in gas turbines.
+Was once used to make Japanese katanas.
+A hard alloy used for cutting tools.
+A lightweight and durable alloy.
+Maintains hardness at low temperatures.
+An electromagnetic converter core.
+Poisonous for humans if ingested.
+Furry leather used for gloves.
+A flexible and soft piece of iron.
+A crystal made of compacted Mana Stones.
+Glass fibers with impact resistance.
+A weathered piece of clothing.
+A precious metal used in accessories.
+Wood used in musical instruments.
+Aragami muscles without its core.
+Elastic, heat-resistant fiber.
+Soft anticorrosion metal used in steel.
+Precious metal spewed out by Aragami.
+Fake metal used for training.
+An Oracle stone that converts metals.
+A fake item used for training.
+A fake relic used for training.
+A gun used during the old era.
+A moderately clean, light shield.
+Steel with many impurities.
+A blade that still cuts smoothly.
+A drill with a strong alloy blade.
+A common uniform used for labor.
+A rock with corroded mineral pieces.
+A commonly used first-aid kit.
+A broken and useless man-powered car.
+A transparent, heat resistant plastic.
+Was once used to make Japanese katanas.
+An alloy made of tungsten and cobalt.
+A weathered piece of clothing.
+A precious metal used in accessories.
+Ore that is unaffected by Oracle cells.
+Slightly recovers some HP.
+Moderately recovers some HP.
+Significantly recovers some HP.
+Slightly increases max HP.
+Moderately increases max HP.
+Significantly increases max HP.
+Increases max HP and Stamina.
+Recovers Stamina to the max.
+Increases max Stamina.
+Moderately increases max Stamina.
+Consume less Stamina for 30 sec.
+Consume less Stamina for 90 sec.
+Uses HP to increase max Stamina.
+Uses HP to increase max Stamina.
+Uses Stamina to increase max HP.
+Uses Stamina to increase max HP.
+Recovers OP.
+Significantly recovers OP.
+Increases max OP.
+Moderately increases max OP.
+Slightly recovers HP/Stamina/OP.
+Moderately recovers HP/Stamina/OP.
+Significantly recovers HP/Stamina/OP.
+100% chance to cure Venom.
+100% chance to cure Venom.
+100% chance to cure Leak.
+100% chance to cure Leak.
+100% chance to cure Jamming.
+100% chance to cure Jamming.
+Cures Venom/Jamming/Leak.
+Increases Attack Power for 30 sec.
+Increases Attack Power for 90 sec.
+Decreases damage taken for 30 sec.
+Decreases damage taken for 90 sec.
+Increases more Attack for 30 sec.
+Increases more Attack for 90 sec.
+Decreases damage taken for 30 sec.
+Decreases damage taken for 90 sec.
+Track enemy location for 30 sec.
+Track enemy location for 60 sec.
+Attract enemy's attention for 10 sec.
+Attract enemy's attention for 15 sec.
+Avoid enemy's attention for 10 sec.
+Avoid enemy's attention for 15 sec.
+Temporarily stuns a nearby enemy.
+Simulate a Burst using HP for 15 sec.
+Simulate a Burst using HP for 30 sec.
+Neutralizes poisonous metals.
+Fluid that acts as solvents for metals.
+Rank:10　For survival through chaotic battles.
+Rank:10　For those who need quick reflexes.
+Rank:10　Lets you dodge various attacks.
+Rank:10　Raises team moral with charisma.
+Rank:10　Allows you to control the Arc freely.
+Rank:10　Quickly vacuums heat from objects.
+Rank:10　Devoted to protecting teammates.
+Rank:10　Gathers electricity from objects.
+Rank:10　Instantly heats up surrounding objects.
+A case filled with various herbs.
+A scrapped grenade with oxidized parts.
+A popular brand-name outfit.
+A uniform worn by commanding officers.
+A dark, depressing looking outfit.
+A popular brand-name outfit.
+A uniform worn by commanding officers.
+A dark, depressing looking outfit.
+A fashionable, expensive brand outfit.
+A Fenrir banner torn by a god.
+A sexy, made-to-order outfit.
+A fashionable, expensive brand outfit.
+A sexy, made-to-order outfit.
+A pure white dress full of memories.
+A pure white dress full of memories.
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Recovers HP for allies who touch it.
+Recovers HP for allies who touch it.
+A trap for enemies. Adds Snare effect.
+A trap for enemies. Adds Venom effect.
+Shattered, but still continues to glow.
+An exoskeleton that contains darkness.
+A soul that drags down other souls.
+An Arc that's weathered away into sand .
+No longer holds on to its own belief.
+Rank:4　Drips Gods Eater blood. Divine/Bomb
+Rank:4　Drips Gods Eater blood.
+Rank:4　Drips Gods Eater blood.
+Dengeki PlayStation uniform.
+Famitsu uniform.
+Dengeki PlayStation uniform.
+Famitsu uniform.
+Rank:7　A mystery blade part. Blaze/Shot
+Rank:7　A mystery gun part. No data.
+Rank:7　A mystery shield part. No data.
+Fuchizawa High School uniform.
+Kuromatsu High School uniform.
+Halcion High School uniform.
+Yatsude High School uniform.
+Fenrir Military Academy High uniform.
+A special uniform for the elite.
+A uniform for the strong and smart.
+Fuchizawa High School uniform.
+Kuromatsu High School uniform.
+Halcion High School uniform.
+Yatsude High School uniform.
+Fenrir Military Academy High uniform.
+A special uniform for the elite.
+A uniform for the strong and smart.
+Rank:7　Sworn revenge upon god. Blaze/Bomb
+Rank:6　Has devoured many cores. Spark/Shot
+Rank:7　A sword that defeats evil with evil.
+Rank:3　To end all sorrow. Freeze/Bomb
+Rank:7　An early gun with many reinforcements.
+Rank:7　Lets out a painful outcry of grief.
+Rank:7　The bullet draws a beautiful trajectory.
+Rank:3　Turns grief into quiet passion.
+Rank:7　Hurts even those whom it must protect.
+Rank:6　An indestructable shield.
+Rank:7　A shield that rejects everything.
+Rank:3　Its affection will dry all tears.
+A key to unlock special Aragami parts.
+Rank:7　Haunted by ghosts. Divine/Bomb
+Rank:9　Carries on the will. Divine/Bomb
+Rank:7　Haunted by the ghosts of Gods Eaters.
+Rank:9　Carries on the will of Gods Eaters.
+Rank:7　Haunted by the ghosts of Gods Eaters.
+Rank:9　Carries on the will of Gods Eaters.
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:2　一二三四五六七八九十一二三四五六七八九十一二三
+A trap for enemies. Adds Bind effect.
+A purple skirt for the night life.
+A pale khaki skirt with elegance.
+A flashy red and black skirt.
+A skirt that calls out for attention.
+A pretty skirt dyed with flowers.
+A gentle, coffee-colored skirt.
+A blue skirt, inspired by waves.
+A halter that shines like flowing water.
+A halter of a beast that roams in town.
+An attractively alluring halter top.
+An elegant but rough halter for nobles.
+A halter top with natural calmness.
+A halter top with pretty fruit-colors.
+A green halter that blends with nature.
+Rank:8　Sworn revenge upon god. Blaze/Bomb
+Rank:8　Lets out a painful outcry of grief.
+Rank:8　Hurts even those whom it must protect.
+Rank:7　To end all sorrow. Freeze/Bomb
+Rank:7　Turns grief into quiet passion.
+Rank:7　Its affection will dry all tears.
+A pure white, dainty bikini top.
+A jet-black, mature style bikini top.
+A pop style, blue wave bikini top.
+A refreshing green, cute bikini top.
+A bikini top with an exotic feel.
+A hot, summer style bikini top.
+A golden bikini top for the beach.
+A pure white, dainty bikini bottom.
+A jet-black, mature style bikini bottom.
+A pop style, blue wave bikini bottom.
+A refreshing green, cute bikini bottom.
+A bikini bottom with an exotic feel.
+A hot, summer style bikini bottom.
+A golden bikini bottom for the beach.
+A gothic outfit like that of a devil's.
+A gothic outfit like that of an angel's.
+A clean gothic outfit for the nobles.
+An upscale gothic outfit for the lady.
+A gothic outfit that hides conspiracy.
+An expensive-looking gothic outfit.
+A gothic outfit soaked in fresh blood.
+A gothic outfit like that of a devil's.
+A gothic outfit like that of an angel's.
+A clean gothic outfit for the nobles.
+An upscale gothic outfit for the lady.
+A gothic outfit that hides conspiracy.
+An expensive-looking gothic outfit.
+A gothic outfit soaked in fresh blood.
+A fallen halo full of desires.
+A soul that binds others to her's.
+A bone to stand on the ground.
+Cloth that repulses desperate people.
+A kneaded, molded mass of dead souls.
+A soul that eats its master's soul.
+Envelopes its master in dark clouds.
+Thrusts through its own master.
+An eye that looks down on its master.
+Flies above its master's head.
+A chain that chokes its own master.
+A bright, sparkly golden scale.
+A bone that stabs the earth.
+A blade that cuts off people's heads.
+A bright, shiny golden scale.
+A hot, scalding golden stone.
+A hard, rigid golden crest.
+A plump, flingy golden fin.
+A wing that covers the earth.
+A joint that tears apart the earth.
+A muscle that destroys the earth.
+Armor that rips away at the earth.
+A soul that swallows the earth.
+A chain that splits the great sea.
+Armor that dries up the great sea.
+A soul that swallows the great sea.
+A heart that shakes the great sea.
+Fluid that muddles the great sea.
+Cloth that confuses the heavens.
+A soul that swallows the heavens.
+A bone that stabs the heavens.
+Cloth that covers the heavens.
+Eyes that burn away the heavens.
+Cloth that shuts out the heavens.
+A blade that rips apart the heavens.
+A key to unlock special Aragami parts.
+A shield that's lost its owner.
+Bones that support its decayed body.
+A key to unlock special Aragami parts.
+A key to unlock special Aragami parts.
+A key to unlock special Aragami parts.
+A key to unlock special Aragami parts.
+A key to unlock special Aragami parts.
+A key to unlock special Aragami parts.
+A key to unlock special Aragami parts.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+The Fenrir Special Assault Team uniform.
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:7　一二三四五六七八九十一二三四五六七八九十一二三
+A suit fit for covert operations.
+A red-stained, white suit for close combat.
+A suit used for hiding in the outdoors.
+A futuristic suit with fluorescent materials.
+A suit fit for covert operations.
+A red-stained, white suit for close combat.
+A suit used for hiding in the outdoors.
+A futuristic suit with fluorescent materials.
+Rank:9　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:9　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:9　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:9　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:9　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:9　一二三四五六七八九十一二三四五六七八九十一二三
+Rank:1　A normal person cannot lift this up.
+Rank:4　A torture blade that is easy to use.
+An outfit for forest guerilla action.
+An outfit for urban covert action.
+An outfit for nighttime operations.
+An outfit that camoflauges in the desert.
+An outfit for forest guerilla action.
+An outfit for urban covert action.
+An outfit for nighttime operations.
+An outfit that camoflauges in the desert.
+Rank:7　Lock-on enabled during gun-form.
+Rank:7　Aims automatically during Aim Mode.
+Rank:7　Clears the skill [Close Range Speed↓].
+Rank:8　Clears the skill [Sluggish].
+Rank:5　A torture blade that is easy to use.
+Rank:5　A scorpion blade that pierces armor.
+Rank:6　Sadness that can never be forgiven.
+Rank:5　Light and easy to use. Freeze/Bomb
+An army suit of a dignified general.
+An army suit with a world-known history.
+An army suit inspiring the universe.
+An army suit consisting of three colors.
+An army suit of a dignified general.
+An army suit with a world-known history.
+An army suit inspiring the universe.
+An army suit consisting of three colors.
+Rank:6　Light and easy to use. Freeze/Bomb
+Rank:5　Slices through with heat. Blaze/Bomb
+Rank:4　Swung around for massive damage.
+Rank:6　Swung around for massive damage.
+Rank:5　Freezes and crushes those who are hit.
+Rank:6　Freezes and crushes those who are hit.
+Rank:5　Its weight can destroy an Aragami.
+Rank:6　Its weight can destroy an Aragami.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Winterized uniform for cold climate ops.
+Rank:4　A bowgun that can use various bullets.
+Rank:5　A bowgun that can use various bullets.
+Rank:5　Shoots fast bullets that blend into night.
+Rank:5　Bites down on its prey like a tiger.
+Rank:6　Bites down on its prey like a tiger.
+Rank:5　Shoots out sharp rays of light.
+Rank:6　Takes away the life of loved ones.
+Rank:4　Shoots out of its horn shaped barrel.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Fenrir uniform given to assault soldiers.
+Rank:6　Shoots out of its horn shaped barrel.
+Rank:4　Unleashes a barrage of bullets.
+Rank:5　Unleashes a barrage of bullets.
+Rank:5　Smashes the enemy with glaciers.
+Rank:4　A rubbery, egg-shaped shield.
+Rank:5　Responds to Aragami movement.
+Rank:4　Dodges attacks with quick movement.
+Rank:4　Looks like the face of a demon.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Fenrir uniform given to medic soldiers.
+Rank:5　Looks like the face of a demon.
+Rank:5　Draconic scale that energizes the wielder.
+Rank:5　Layered with various metals.
+Rank:6　Absorbs energy from the outside.
+Rank:10　A wall of hot air surrounds the wielder.
+Rank:10　The scorching heat can melt any metal.
+Rank:10　The scorching heat can melt any metal.
+Rank:10　Can shoot thunderbolts of god's wrath.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Fenrir uniform given to sniper soldiers.
+Rank:10　Can shoot thunderbolts of god's wrath.
+Rank:10　Gathers electricity from the air.
+Rank:10　Chilly air gathers around this gun.
+Rank:10　Chilly air gathers around this gun.
+Rank:10　The bullet trajectory can cause a storm.
+Rank:10　Sinners will be hit with lightning.
+Rank:10　Sinners will freeze in ice.
+Rank:10　Sinners will freeze in ice.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Fenrir uniform given to scout soldiers.
+Rank:7　Sinners will burn in the fires of hell.
+Rank:10　Sinners will burn in the fires of hell.
+Rank:10　Enables movement of god-like speeds.
+Rank:10　Enables movement of god-like speeds.
+Rank:10　Enables movement of god-like speeds.
+Rank:10　Increases the ability to fill up Oracle cells.
+Rank:10　Increases the ability to fill up Oracle cells.
+Rank:10　A heavy gun that can sink a battleship.
+Waiter uniform for a 3-star restaurant.
+Waiter uniform for an open terrace cafe.
+Waiter uniform for a popular gelato shop.
+Waiter uniform for a home style diner.
+Waiter uniform for a 3-star restaurant.
+Waiter uniform for an open terrace cafe.
+Waiter uniform for a popular gelato shop.
+Waiter uniform for a home style diner.
+Waitress uniform for Prim Cafe.
+Waitress uniform for Mabo-Rabo Coffee.
+Waitress uniform for Anna Miroir restaurant.
+Waitress uniform for Maid-Drops cafeteria.
+Waitress uniform for Prim Cafe.
+Waitress uniform for Mabo-Rabo Coffee.
+Waitress uniform for Anna Miroir restaurant.
+Waitress uniform for Maid-Drops cafeteria.
+An orthodox high school uniform.
+The uniform for an upper class high school.
+The uniform for an art school.
+The uniform for a historic high school.
+An orthodox high school uniform.
+The uniform for an upper class high school.
+The uniform for an art school.
+The uniform for a historic high school.
+Rank:10　A heavy gun that can sink a battleship.
+Rank:10　Love can cause miracles.
+Rank:10　Love can cause miracles.
+Rank:10　Love can cause miracles.
+Rank:10　Perfect for fighting on uneven terrain.
+Rank:10　Allows you to hunt unknown enemies.
+Rank:10　Specializes in dangerous shoot-outs.
+Rank:10　Specializes in dangerous shoot-outs.
+Blue armor of a one-eyed samurai.
+Red & blue armor of the tiger samurai.
+Bright red armor of the world's best soldier.
+Platinum armor of the dragon samurai.
+Blue armor of a one-eyed samurai.
+Red & blue armor of the tiger samurai.
+Bright red armor of the world's best soldier.
+Platinum armor of the dragon samurai.
+A red outfit worn by a flying ninja.
+A purple outfit worn by ninja of darkness.
+A yellow outfit worn by ninja with skills.
+A white outfit worn by servant ninja.
+A red outfit worn by a flying ninja.
+A purple outfit worn by ninja of darkness.
+A yellow outfit worn by ninja with skills.
+A white outfit worn by servant ninja.
+A cute costume, loved by children.
+A white costume with an arctic image.
+A very hot costume due to its dark color.
+An adorable costume that melts hearts.
+A cute costume, loved by children.
+A white costume with an arctic image.
+A very hot costume due to its dark color.
+An adorable costume that melts hearts.
+Rank:10　It's impossible to stop its gunfire.
+Rank:10　It's impossible to stop its gunfire.
+Rank:10　Trains the user how to brace for impact.
+Rank:10　Only a veteran warrior can use it.
+Rank:10　Trains the user how to brace for impact.
+Rank:10　A hawk's wail drifts in the air.
+Rank:10　A hawk's wail drifts in the air.
+Rank:10　A tiger's anger overflows.
+Casual outfit with a light green pattern.
+Casual outfit in elegant red.
+Casual outfit with earthy colors.
+Casual outfit in striking blue.
+Casual outfit with a light green pattern.
+Casual outfit in elegant red.
+Casual outfit with earthy colors.
+Casual outfit in striking blue.
+Rank:10　A tiger's anger overflows.
+Rank:10　Blasts away an Aragami into dust.
+Rank:10　Blasts away an Aragami into ash.
+Rank:10　Blasts away an Aragami into ash.
+Rank:10　Grinds down on Aragami bones.
+Rank:10　Can swallow a god whole.
+Rank:10　Can swallow a god whole.
+Rank:10　Grinds down on Aragami bones.
+Unique fashion with vivid colors.
+Unique fashion full of vitamin colors.
+Unique fashion, even in black.
+Unique fashion with a cute matte blue.
+Unique fashion with vivid colors.
+Unique fashion full of vitamin colors.
+Unique fashion, even in black.
+Unique fashion with a cute matte blue.
+Rank:10　Sends the Aragami to the heavens.
+Rank:10　Causes status abnormalities in Aragami.
+Rank:10　Causes status abnormalities in Aragami.
+Rank:10　Generates powerful electric shock.
+Rank:10　Halts the movement of Oracle Cells.
+Rank:10　A sword that stops Aragami movement.
+Rank:10　Prevents Aragami from standing.
+Rank:10　Stops an Aragami from breathing.
+An outfit for walking around campus.
+A cool summer outfit for the beach.
+An outfit perfect for a random stroll.
+A black outfit that blends in at night.
+An outfit for walking around campus.
+A cool summer outfit for the beach.
+An outfit perfect for a random stroll.
+A black outfit that blends in at night.
+Rank:10　Sprays poison mist that burns the body.
+Rank:10　The enemy will die, slowly but surely.
+Rank:10　Freezes and destroys the Aragami.
+Rank:10　Freezes and destroys the Aragami.
+Rank:9　Melts away the Oracle Cell lining.
+Rank:10　Melts away the Oracle Cell lining.
+Rank:10　For the self-defense of a pretty lady.
+Rank:10　For the self-defense of a pretty lady.
+For adults who like fancy cafes.
+The pink breaks down this rigid style.
+The retro style makes it fashionable.
+With pretty looking colors.
+For adults who like fancy cafes.
+The pink breaks down this rigid style.
+The retro style makes it fashionable.
+With pretty looking colors.
+Rank:10　For the self-defense of a dainty woman.
+Rank:10　A mind-calming blade. Freeze/Bomb
+Rank:8　Freezes the open wound. Freeze/Bomb
+Rank:10　Freezes the open wound. Freeze/Bomb
+Rank:10　Excites the arc's cells. Spark/Shot
+Rank:10　Enveloped in cold air. Freeze/Bomb
+Rank:10　Collects more Oracle cells. Divine/Bomb
+Rank:10　Raises devour abilities. Spark/Radial
+The dark green brings out toughness.
+A red and black, psychedelic jacket.
+A purple jacket with a yellow decoration.
+A monochrome, cloud-colored jacket.
+The dark green brings out toughness.
+Red and black, psychedelic pants.
+Purple pants with a yellow decoration.
+Monochrome, cloud-colored pants.
+Rank:10　Raises devour abilities. Spark/Radial
+Rank:10　Tested through hell. Freeze/Radial
+Rank:10　Tested through hell. Blaze/Radial
+Rank:10　Brings death to the gods. Divine/Shot
+Rank:10　Sends the gods to hell. Divine/Bomb
+Rank:10　Sends the gods to hell. Divine/Bomb
+Rank:10　Swiftly slashes through demon flesh.
+Rank:10　Has seen many victorious battles.
+The basic outfit for any occasion.
+An outfit that creates a cool atmosphere.
+With a soft feel that appeals to all.
+Brings out the energetic tomboy within.
+The basic outfit for any occasion.
+An outfit that creates a cool atmosphere.
+With a soft feel that appeals to all.
+Brings out the energetic tomboy within.
+Rank:10　Has seen many victorious battles.
+Rank:10　Air compressed for greater impact.
+Rank:10　Air compressed for greater impact.
+Rank:10　Can easily crush giant Aragami bones.
+Rank:10　Ignores defense. Berserker only.
+Rank:10　Designed without considering defense.
+Rank:10　Designed without considering defense.
+Rank:10　Lets you dodge various attacks.
+A fun outfit with decorative pockets.
+An outfit full of pockets in chic colors.
+An outfit for the aggressive youth.
+A decorative tribal style outfit.
+A fun outfit with decorative pockets.
+An outfit full of pockets in chic colors.
+An outfit for the aggressive youth.
+A decorative tribal style outfit.
+Rank:10　Lets you dodge various attacks.
+Rank:10　Lets you dodge various attacks.
+Rank:10　For those who need quick reflexes.
+Rank:10　For those who need quick reflexes.
+Rank:10　For those who need quick reflexes.
+Rank:10　For survival through chaotic battles.
+Rank:10　For survival through chaotic battles.
+Rank:10　For survival through chaotic battles.
+A stylish and punkish black outfit.
+A punkish white outfit with a proud feel.
+A hunter's one-shot punkish style outfit.
+A bang-punk outfit with feral instinct.
+A stylish and punkish black outfit.
+A punkish white outfit with a proud feel.
+A hunter's one-shot punkish style outfit.
+A bang-punk outfit with feral instinct.
+Rank:10　Makes you want to destroy everything.
+Rank:10　Raises team moral with charisma.
+Rank:10　Raises team moral with charisma.
+Rank:10　Raises team moral with charisma.
+Rank:10　Allows you to control the Arc freely.
+Rank:10　Allows you to control the Arc freely.
+Rank:10　Allows you to control the Arc freely.
+Rank:10　Devoted to protecting teammates.
+A sexy glamourous wild red outfit.
+With a charming and attractive design.
+A sexy outfit that gives confidence.
+Has refreshing colors and a bold cut.
+A sexy glamourous wild red outfit.
+With a charming and attractive design.
+A sexy outfit that gives confidence.
+Has refreshing colors and a bold cut.
+Rank:10　Devoted to protecting teammates.
+Rank:10　Devoted to protecting teammates.
+Rank:10　Gathers electricity from objects.
+Rank:10　Gathers electricity from objects.
+Rank:10　Gathers electricity from objects.
+Rank:10　Quickly vacuums heat from objects.
+Rank:10　Quickly vacuums heat from objects.
+Rank:10　Quickly vacuums heat from objects.
+A warm reddish style, fit for school.
+A clear, clean looking school style outfit.
+A school style outfit with formal colors.
+A school outfit with playful colors.
+A warm reddish style, fit for school.
+A clear, clean looking school style outfit.
+A school style outfit with formal colors.
+A school outfit with playful colors.
+Rank:10　Instantly heats up surrounding objects.
+Rank:10　Instantly heats up surrounding objects.
+Rank:10　Instantly heats up surrounding objects.
+Rank:10　A round flexible, but durable shield.
+Rank:10　A round flexible, but durable shield.
+Rank:10　A round flexible, but durable shield.
+Rank:10　A round flexible, but durable shield.
+Rank:10　Detects all Aragami attacks.
+Special trainers for the elite.
+Trainers chosen freely by the students.
+Clothes used for outdoor training.
+Jersey trainers with a gentle feel.
+Special trainers for the elite.
+Trainers chosen freely by the students.
+Clothes used for outdoor training.
+Jersey trainers with a gentle feel.
+Rank:10　Detects all Aragami attacks.
+Rank:10　Detects all Aragami attacks.
+Rank:10　Dashes so fast you can't even see.
+Rank:10　Dashes so fast you can't even see.
+Rank:10　Dashes so fast you can't even see.
+Rank:10　Grants the life of a dragon.
+Rank:10　Grants the life of a dragon.
+Rank:10　Grants the life of a dragon.
+A dress shirt & tie with a cool cutback.
+A dress shirt & tie with a red applique.
+A dress shirt with a yellow starry tie.
+The now popular, purple & green shirt.
+Funky pants with bright red.
+Pants that bring out the red.
+Pants that are gray, but unusual.
+Fancy pants that play with shapes.
+Rank:10　Modeled after a very tough demon.
+Rank:10　Modeled after a very tough demon.
+Rank:10　Modeled after a very tough demon.
+Rank:10　Modeled after a very tough demon.
+Rank:10　With protective powers of a king.
+Rank:10　With protective powers of a king.
+Rank:10　With protective powers of a king.
+Rank:10　Turns impact into beautiful music.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Formal Fenrir uniform given to officers.
+Rank:10　Turns impact into beautiful music.
+Rank:10　Turns impact into beautiful music.
+Rank:10　Gives powers of a glorious hero.
+Rank:10　Gives powers of a glorious hero.
+Rank:10　Gives powers of a glorious hero.
+Rank:10　Can greatly increase physical abilities.
+Rank:10　Can greatly increase physical abilities.
+Rank:10　Can greatly increase physical abilities.
+A red outfit from the fires of hell.
+Of a white-winged devil from heaven.
+Flashes around within nightmares.
+Creates the black darkness of evil.
+A red outfit from the fires of hell.
+Of a white-winged devil from heaven.
+Flashes around within nightmares.
+Creates the black darkness of evil.
+A pure white cupid with a pure heart.
+A trickster cupid with a little devil within.
+A pink cupid who loves to love.
+A yellow cupid who brings happiness.
+A pure white cupid with a pure heart.
+A trickster cupid with a little devil within.
+A pink cupid who loves to love.
+A yellow cupid who brings happiness.
+A classic, red Santa outfit.
+A Norse forest style Santa outfit.
+A black, night-time Santa outfit.
+A bright, snow-white Santa outfit.
+A classic, red Santa outfit.
+A Norse forest style Santa outfit.
+A black, night-time Santa outfit.
+A bright, snow-white Santa outfit.
+Rank:10　Weakens impact with Oracle powers.
+Rank:10　Weakens impact with Oracle powers.
+Rank:10　Weakens impact with Oracle powers.
+Rank:10　Turns everything into nothing.
+Rank:10　Turns everything into nothing.
+Rank:10　Turns everything into nothing.
+Rank:10　Strikes through and rips apart sinners.
+Rank:10　Crucifies sinners with ice.
+A black coat to eliminate traitors.
+A white coat to punish betrayers.
+A gold coat for working elegantly.
+A red coat that absorbs blood.
+A black coat to eliminate traitors.
+A white coat to punish betrayers.
+A gold coat for working elegantly.
+A red coat that absorbs blood.
+Rank:10　Burns sinners at the stake.
+Rank:10　Runs electricity through sinners.
+Rank:10　Its sharp tip ignores any bond.
+Rank:10　Its sharp tip ignores any bond.
+Rank:10　Melts the armor and rips the flesh.
+Rank:10　Pierces through and directly electrifies.
+Rank:10　Retribution that can save no one.
+Rank:10　Despair that will never disappear.
+For the boy who closed his heart.
+White clothes with an innocent image.
+Boys clothes with wild colors.
+Clothes of a brave, fearless boy.
+For the boy who closed his heart.
+White clothes with an innocent image.
+Boys clothes with wild colors.
+Clothes of a brave, fearless boy.
+Clothes once worn by the best sniper.
+Sniper clothes used for formal wear.
+A sniper outfit that supports melee battle.
+Sniper clothes fit for mountain ops.
+Clothes once worn by the best sniper.
+Sniper clothes used for formal wear.
+A sniper outfit that supports melee battle.
+Sniper clothes fit for mountain ops.
+Rank:1　A torture blade that is easy to use.
+Rank:3　A torture blade that is easy to use.
+Rank:7　Strikes through and rips apart sinners.
+Rank:7　Crucifies sinners with ice.
+Rank:7　Burns sinners at the stake.
+Rank:7　Runs electricity through sinners.
+Rank:8　Crucifies sinners with ice.
+Rank:8　Burns sinners at the stake.
+Rank:8　Runs electricity through sinners.
+Rank:9　Crucifies sinners with ice.
+Rank:9　Burns sinners at the stake.
+Rank:9　Runs electricity through sinners.
+Rank:3　A scorpion blade that pierces armor.
+Rank:4　A scorpion blade that pierces armor.
+Rank:7　Its sharp tip ignores any bond.
+Rank:8　Melts the armor and rips the flesh.
+Rank:9　Melts the armor and rips the flesh.
+Rank:7　Pierces through and directly electrifies.
+Rank:8　Pierces through and directly electrifies.
+Rank:9　Pierces through and directly electrifies.
+Rank:9　Its sharp tip ignores any bond.
+Rank:4　Sadness that can never be forgiven.
+Rank:5　Sadness that can never be forgiven.
+Rank:8　Retribution that can save no one.
+Rank:7　Despair that will never disappear.
+Rank:10　Retribution that can save no one.
+Rank:10　Despair that will never disappear.
+Rank:7　A short blade with fire inside.
+Rank:9　Grants its wielder swiftness.
+Rank:10　Grants its wielder swiftness.
+Rank:10　Grants its wielder swiftness.
+Rank:10　A rune blade carved with a storm rune.
+Rank:10　A rune blade carved with a fire rune.
+Rank:10　A rune blade carved with an ice rune.
+Rank:10　A rune blade carved with a light rune.
+Rank:10　An azure dragon who guards the east.
+Rank:10　A red phoenix who guards the south.
+Rank:10　A white tiger who guards the west.
+Rank:10　A black tortoise who guards the north.
+Rank:2　Light and easy to use. Freeze/Bomb
+Rank:4　Light and easy to use. Freeze/Bomb
+Rank:7　Light and easy to use. Freeze/Bomb
+Rank:4　Slices through with heat. Blaze/Bomb
+Rank:7　Slices through with heat. Blaze/Bomb
+Rank:7　Shatters with a cold aura. Freeze/Bomb
+Rank:9　Shatters with a cold aura. Freeze/Bomb
+Rank:10　Shatters with a cold aura. Freeze/Bomb
+Rank:9　Swipes create heat waves. Blaze/Bomb
+Rank:10　Swipes create heat waves. Blaze/Bomb
+Rank:6　An onyx blade of the lion. Divine/Bomb
+Rank:8　An onyx blade of the lion. Divine/Bomb
+Rank:8　An avalanching blade. Freeze/Bomb
+Rank:10　An avalanching blade. Freeze/Bomb
+Rank:10　A king's ultimate powers. Divine/Bomb
+Rank:8　Calls upon thunderstorms. Spark/Bomb
+Rank:10　Calls upon thunderstorms. Spark/Bomb
+Rank:7　Overflows with life energy. Divine/Radial
+Rank:9　Overflows with life energy. Divine/Radial
+Rank:7　Dances like flickering flames. Blaze/Radial
+Rank:10　Praise the heavy, dull light. Divine/Radial
+Rank:10　Dances like a fierce blaze. Blaze/Radial
+Rank:7　Reinforced with dragon fire. Blaze/Bomb
+Rank:9　Grants wings of a dragon. Blaze/Bomb
+Rank:10　Grants wings of a dragon. Blaze/Bomb
+Rank:10　Grants wings of a phantom. Divine/Bomb
+Rank:10　Unleashes great powers. Freeze/Bomb
+Rank:10　Unleashes great powers. Blaze/Bomb
+Rank:10　Unleashes great powers. Freeze/Bomb
+Rank:10　Unleashes great powers.Blaze/Bomb
+Rank:10　The sword choses its wielder. Divine/Shot
+Rank:10　None can escape its holy fire. Blaze/Shot
+Rank:10　Blessed by the god of sea. Freeze/Shot
+Rank:10　Lightning that denies all. Spark/Shot
+Rank:2　Swung around for massive damage.
+Rank:7　Swung around for massive damage.
+Rank:4　Freezes and crushes those who are hit.
+Rank:7　Freezes and crushes those who are hit.
+Rank:9　Freezes and crushes those who are hit.
+Rank:7　Gives the wielder demonic strength.
+Rank:9　Gives the wielder demonic strength.
+Rank:10　Gives the wielder guardian strength.
+Rank:3　Its weight can destroy an Aragami.
+Rank:4　Its weight can destroy an Aragami.
+Rank:7　Harder and heavier for larger Aragami.
+Rank:9　Harder and heavier for larger Aragami.
+Rank:7　Its cool aura creates barren lands.
+Rank:9　Its cool aura creates barren lands.
+Rank:10　Its cool aura creates barren lands.
+Rank:7　Its fire burns the land down to ash.
+Rank:8　Its fire burns the land down to ash.
+Rank:10　Its fire burns the land down to ash.
+Rank:10　Not a single leaf of grass can remain.
+Rank:5　A dual-horn sword with evil powers.
+Rank:7　A dual-horn sword with evil powers.
+Rank:7　Acts as electrodes to create sparks.
+Rank:8　Acts as electrodes to create sparks.
+Rank:8　Affects the principles of the world.
+Rank:9　Nether is the power of eternity.
+Rank:10　Void is the power of all beginnings.
+Rank:7　A greatsword that blazes with fire.
+Rank:9　Grants the powers of a dragon.
+Rank:10　Grants the powers of a dragon.
+Rank:10　Grants the powers of a phantom.
+Rank:10　Spits hellfires that burn even dragons.
+Rank:10　Emits an aura that freeze even dragons.
+Rank:10　Can crush dragons with its thunder.
+Rank:10　Fire and ice react to dissolve dragons.
+Rank:10　Froze an entire kingdom in one night.
+Rank:10　Drowns regions into a sea of magma.
+Rank:10　Rips the sky and calls upon storms.
+Rank:10　Drank the blood of the gods of nature.
+Rank:1　A bowgun that can use various bullets.
+Rank:3　A bowgun that can use various bullets.
+Rank:7　A bowgun that can use various bullets.
+Rank:7　Scatters fire along with bullets.
+Rank:7　Its gunfire attracts thunder.
+Rank:7　A blizzard blasts from the barrel.
+Rank:9　Scatters fire along with bullets.
+Rank:9　Its gunfire attracts thunder.
+Rank:9　A blizzard blasts from the barrel.
+Rank:2　Shoots fast bullets that blend into night.
+Rank:4　Shoots fast bullets that blend into night.
+Rank:7　Shoots fast bullets that blend into night.
+Rank:9　With overwhelming firepower and speed.
+Rank:8　Shoots lightning fast power shots.
+Rank:9　Shoots lightning fast power shots.
+Rank:10　With overwhelming firepower and speed.
+Rank:3　Bites down on its prey like a tiger.
+Rank:4　Bites down on its prey like a tiger.
+Rank:8　Bites down on its prey like a tiger.
+Rank:8　Allows none to come close to it.
+Rank:10　Allows none to come close to it.
+Rank:10　Makes all bow down to its powers.
+Rank:7　Born from the fear of its conquerer.
+Rank:8　Born from the fear of its conquerer.
+Rank:9　Filled with fear for the almighty gods.
+Rank:10　Filled with fear for the almighty gods.
+Rank:7　Has a strong, calming boom.
+Rank:7　Shakes with a disappearing sound.
+Rank:9　Has a strong, calming boom.
+Rank:10　Brings silence to the world.
+Rank:10　A freeze gun created at the FE branch.
+Rank:10　A blaze gun created at the FE branch.
+Rank:10　A spark gun created at the FE branch.
+Rank:10　A divine gun created at the FE branch.
+Rank:3　Shoots out sharp rays of light.
+Rank:4　Shoots out sharp rays of light.
+Rank:7　Shoots out sharp rays of light.
+Rank:8　Shoots out concentrated electricity.
+Rank:9　Shoots out concentrated electricity.
+Rank:7　Shoots light and fire at the same time.
+Rank:9　Shoots light and fire at the same time.
+Rank:9　Pierces through all armor.
+Rank:4　Takes away the life of loved ones.
+Rank:5　Takes away the life of loved ones.
+Rank:7　Takes away the life of loved ones.
+Rank:7　Lets out a cry of betrayed love.
+Rank:7　Lets out the roar of undeniable destiny.
+Rank:7　Watches over the dying flames of life.
+Rank:10　Lets out a cry of betrayed love.
+Rank:10　Lets out the roar of undeniable destiny.
+Rank:10　Takes away the life of loved ones.
+Rank:5　Uses spiraling power to charge up.
+Rank:7　Uses spiraling power to charge up.
+Rank:7　Creates electricity within the spiral.
+Rank:8　Created the original power of spirals.
+Rank:10　Manifestation of a spiraling eternity.
+Rank:10　A rare pistol given only to officers.
+Rank:10　A rare pistol given only to officers.
+Rank:10　A rare pistol given only to officers.
+Rank:10　A rare pistol given only to officers.
+Rank:1　Shoots out of its horn shaped barrel.
+Rank:3　Shoots out of its horn shaped barrel.
+Rank:7　Shoots out of its horn shaped barrel.
+Rank:7　Remade to throw out flames.
+Rank:7　Used to charge bullets with blizzards.
+Rank:7　Used to shoot out electrified bullets.
+Rank:8　Remade to throw out flames.
+Rank:8　Used to charge bullets with blizzards.
+Rank:8　Used to shoot out electrified bullets.
+Rank:2　Unleashes a barrage of bullets.
+Rank:7　Unleashes a barrage of bullets.
+Rank:4　Smashes the enemy with glaciers.
+Rank:7　Smashes the enemy with glaciers.
+Rank:9　Smashes the enemy with glaciers.
+Rank:7　Smashes the enemy with giant bullets.
+Rank:9　Smashes the enemy with giant bullets.
+Rank:10　Destroys with the impact of wrath.
+Rank:6　An onyx cannon with a lion's name.
+Rank:8　An onyx cannon with a lion's name.
+Rank:7　The wrath of the thunder lion.
+Rank:8　The wrath of the thunder lion.
+Rank:10　An ultimate cannon with the king's name.
+Rank:10　The wrath of the thunder lion.
+Rank:7　A cannon that roars with dragon fire.
+Rank:8　A cannon that roars with dragon fire.
+Rank:9　Gives the power of a dragon's flame.
+Rank:10　With fires that burn even the gods.
+Rank:10　With fires that burn even the gods.
+Rank:10　Created by Oracle technology.
+Rank:10　Created by Oracle technology.
+Rank:10　Created by Oracle technology.
+Rank:10　Created by Oracle technology.
+Rank:1　A rubbery, egg-shaped shield.
+Rank:3　A rubbery, egg-shaped shield.
+Rank:7　A round flexible, but durable shield.
+Rank:8　A round flexible, but durable shield.
+Rank:9　A round flexible, but durable shield.
+Rank:2　Responds to Aragami movement.
+Rank:4　Responds to Aragami movement.
+Rank:7　Can predict an Aragami's actions.
+Rank:8　Can predict an Aragami's actions.
+Rank:9　Detects all Aragami attacks.
+Rank:10　Detects all Aragami attacks.
+Rank:3　Dodges attacks with quick movement.
+Rank:5　Dodges attacks with quick movement.
+Rank:7　Dodges attacks with quick movement.
+Rank:8　Allows none to lay a single finger on it.
+Rank:9　Dashes so fast you can't even see.
+Rank:10　Dashes so fast you can't even see.
+Rank:7　Forged with dragon flames.
+Rank:8　Forged with dragon flames.
+Rank:9　Grants the life of a dragon.
+Rank:10　Grants the life of a phantom.
+Rank:1　Looks like the face of a demon.
+Rank:3　Looks like the face of a demon.
+Rank:7　Modeled after a very tough demon.
+Rank:8　Modeled after a very tough demon.
+Rank:9　Modeled after a very tough demon.
+Rank:6　An onyx shield with a lion's name.
+Rank:7　An onyx shield with a lion's name.
+Rank:8　With the strength of a pack leader.
+Rank:9　With the strength of a pack leader.
+Rank:10　With protective powers of a king.
+Rank:7　Blocks attacks with high pitched sounds.
+Rank:8　Blocks attacks with high pitched sounds.
+Rank:9　Turns impact into beautiful music.
+Rank:10　Turns impact into beautiful music.
+Rank:7　With powers of an ancient hero.
+Rank:8　With powers of an ancient hero.
+Rank:9　Gives powers of a glorious hero.
+Rank:10　Gives powers of a glorious hero.
+Rank:2　Energizes the wielder.
+Rank:4　Energizes the wielder.
+Rank:7　Energizes the wielder.
+Rank:8　Can greatly increase physical abilities.
+Rank:9　Can greatly increase physical abilities.
+Rank:10　Can greatly increase physical abilities.
+Rank:4　Layered with various metals.
+Rank:7　Layered with various metals.
+Rank:8　Weakens impact with Oracle powers.
+Rank:9　Weakens impact with Oracle powers.
+Rank:10　Weakens impact with Oracle powers.
+Rank:5　Absorbs energy from the outside.
+Rank:7　Absorbs energy from the outside.
+Rank:8　Dissipates approaching energy.
+Rank:9　Dissipates approaching energy.
+Rank:10　Turns everything into nothing.
+Rank:10　A Fenrir protector worn only by officers.
+Rank:10　A Fenrir protector worn only by officers.
+Rank:10　A Fenrir protector worn only by officers.
+Rank:10　A Fenrir protector worn only by officers.
+Rank:4　Halts the movement of Oracle Cells.
+Rank:4　Heats up to iron-melting temperatures.
+Rank:7　Heats up to iron-melting temperatures.
+Rank:9　Raises devour abilities. Spark/Radial
+Rank:9　Heats up to iron-melting temperatures.
+Rank:7　Stops an Aragami from breathing.
+Rank:9　Stops an Aragami from breathing.
+Rank:9　Collects more Oracle cells. Divine/Bomb
+Rank:10　Collects more Oracle cells. Divine/Bomb
+Command given to NPCs.
+Command given to NPCs.
+Command given to NPCs.
+Command given to NPCs.
+Flexible outer skin of a dragon.
+A bone that changes form with heat.
+A helm of a courageous warrior.
+Fangs that can kill in an instant.
+Rank:10　Grants its wielder swiftness.
+Aged and hardened dragon skin.
+A horn that converts heat to energy.
+Dragon bracers that absorb heat.
+A dense crystal that emits heat.
+A bone that absorbs strong impact.
+A helm of a veteran warrior.
+Instantly conducts heat through air.
+Melts the enemy with high heat.
+Withstands even the hottest heat.
+A crystal that emits blazing heat.
+Dragon blood that glows red.
+The flexible skin of a phantom dragon.
+Bracers that absorb very high heat.
+A helm of the king of the nethers.
+Envelopes everything in darkness.
+Strikes a kill without being detected.
+Skin that was hardened by heat.
+A crystal that vibrates at high speed.
+Blood that will ignite if touched.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+Catalyst for creating strong gear.
+A large bone hardened over the ages.
+A horn that glows a cursed red.
+Claws that can slice through iron.
+An organ that gathers great energy.
+A crystal of fused compound eyes.
+Red moss that squirms like worms.
+Rank:10　Grants its wielder swiftness.
+Rank:10　Swipes create heat waves. Blaze/Bomb
+Rank:10　Shatters with a cold aura. Freeze/Bomb
+Rank:10　A king's ultimate powers. Divine/Bomb
+Rank:10　Praise the heavy, dull light. Divine/Radial
+Rank:10　Dances like a fierce blaze. Blaze/Radial
+Rank:10　Grants wings of a dragon. Blaze/Bomb
+Rank:10　Grants wings of a dragon. Blaze/Bomb
+Rank:10　Slam with the wrath of the guardian.
+Rank:10　Gives the wielder guardian strength.
+Rank:10　Swung by a guardian on a snowy field.
+Rank:10　Not a single leaf of grass can remain.
+Rank:10　Acts as electrodes to create sparks.
+Rank:10　Nether is the power of eternity.
+Rank:10　Acts as electrodes to create sparks.
+Rank:10　Grants the powers of a dragon.
+Catalyst for creating strong gear.
+An unidentifiable feather of darkness.
+Rank:10　Grants the powers of a dragon.
+Rank:10　A bowgun that can use various bullets.
+Rank:10　Scatters fire along with bullets.
+Rank:10　Its gunfire attracts thunder.
+Rank:10　A blizzard blasts from the barrel.
+Rank:10　Shoots lightning fast power shots.
+Rank:10　With overwhelming firepower and speed.
+Rank:10　With overwhelming firepower and speed.
+Rank:10　Allows none to come close to it.
+Rank:10　Makes all bow down to its powers.
+Rank:10　Filled with fear for the almighty gods.
+Rank:10　Filled with fear for the almighty gods.
+Rank:10　Filled with fear for the almighty gods.
+Rank:10　Created the original power of spirals.
+Rank:10　Rumbles with the sound of victory.
+Rank:10　Brings silence to the world.
+Rank:10　Rumbles with the sound of victory.
+Rank:10　Pierces through all armor.
+Rank:8　Reinforced with dragon fire. Blaze/Bomb
+Rank:8　A greatsword that blazes with fire.
+Rank:8　A short blade with fire inside.
+Rank:7　Sadness that can never be forgiven.
+An unidentifiable wing of darkness.
+A big unidentifiable wing of darkness.
+A prototype arc-controller unit.
+Improves various status effects.
+Specializes in item usage.
+Increases mobility and defense.
+Specializes in increasing survivability.
+Devours gods to change it to power.
+Has the ability to cut forward.
+Reinforces quick consecutive attacks.
+Able to deal elegant, mid-air attacks.
+Improves stealing of enemy energy.
+Specializes only in frontline abilities.
+Specializes in reckless tactics.
+For healing and helping others.
+Increases abilities to protect others.
+Greatly improves self-recovery.
+Specializes in holy protection.
+Saves injured and defeated warriors.
+Detects enemy existance.
+Finds information about the enemy.
+Enables enemy tracking while hidden.
+Enables actions that won't be detected.
+Believes in one-shot kill tactics.
+Oversees everything on the field.
+Improves shooting abilities.
+Improves sharing of Aragami bullets.
+Enables un-detected shooting.
+Distracts the enemy with gunfire.
+Improves ranged attack & support.
+For tricksters that distribute bullets.
+Stops the enemy at the front line.
+A wall that attracts & stops the enemy.
+Determined to guard and protect.
+Specializes in repelling attacks.
+A dark giant that won't fall.
+Rank:10　Pierces through all armor.
+Rank:10　Shoots out concentrated electricity.
+Rank:10　Shoots light and fire at the same time.
+Rank:10　Takes away the life of loved ones.
+Rank:10　Manifestation of a spiraling eternity.
+Rank:10　Creates primordial spiraling power.
+Rank:10　Shoots out of its horn shaped barrel.
+Rank:10　Remade to throw out flames.
+Rank:10　Used to charge bullets with blizzards.
+Rank:10　Used to shoot out electrified bullets.
+Rank:10　Destroys with the impact of wrath.
+Rank:10　Freezes and destroys Aragami.
+Rank:10　Shoots bullets that crush everything.
+Rank:10　An ultimate cannon with the king's name.
+Rank:10　An ultimate cannon with the king's name.
+Rank:10　With fires that burn even the gods.
+Rank:10　With fires that burn even the gods.
+Rank:9　A sword that defeats evil with evil.
+Rank:10　A sword that defeats evil with evil.
+Rank:9　A shield that rejects everything.
+Rank:10　A shield that rejects everything.
+Rank:9　The bullet draws a beautiful trajectory.
+Rank:10　The bullet draws a beautiful trajectory.
+Rank:9　An early gun with many reinforcements.
+Rank:10　An early gun with many reinforcements.
+Rank:7　Has devoured many cores. Spark/Shot
+Rank:10　Has devoured many cores. Spark/Shot
+Rank:7　An indestructable shield.
+Rank:10　An indestructable shield.
+Rank:9　Sworn revenge upon god. Blaze/Bomb
+Rank:10　Sworn revenge upon god. Blaze/Bomb
+Rank:9　Lets out a painful outcry of grief.
+Rank:10　Lets out a painful outcry of grief.
+Rank:9　Hurts even those whom it must protect.
+Rank:10　Hurts even those whom it must protect.
+Rank:9　To end all sorrow. Freeze/Bomb
+Rank:10　To end all sorrow. Freeze/Bomb
+Rank:9　Turns grief into quiet passion.
+Rank:10　Turns grief into quiet passion.
+Rank:9　Its affection will dry all tears.
+Rank:10　Its affection will dry all tears.
+Rank:9　Carries on the will of Gods Eaters.
+Rank:9　Carries on the will of Gods Eaters.
+Rank:9　Carries on the will. Divine/Bomb
+Rank:9　Carries on the will. Divine/Bomb
+Rank:9　Carries on the will of Gods Eaters.
+Rank:9　Carries on the will of Gods Eaters.
+Rank:10　A mystery gun part. No data.
+Rank:10　A mystery blade part. Blaze/Shot
+Rank:10　A mystery shield part. No data.
+Rank:10　The best in lightweight and mobility.
+Rank:10　A dual-edged, cast-iron greatsword.
+Rank:10　With sunder abilities. Blaze/Bomb
+Rank:10　Makes you want to destroy everything.
+Rank:10　Makes you want to destroy everything.
+Rank:10　Makes you want to destroy everything.
+Rank:10　Devours the power of the gods.
+Rank:10　Devours the power of the gods.
+Rank:10　Devours the power of the gods.
+Rank:10　Betrayal leads to destruction.
+Rank:10　Betrayal leads to destruction.
+Rank:10　Betrayal leads to destruction.
+Rank:10　Grants its wielder immortality.
+Rank:10　Grants its wielder immortality.
+Rank:10　Grants its wielder immortality.
+Rank:10　For the king who swore revenge on god.
+Rank:10　For the king who swore revenge on god.
+Rank:10　For the king who swore revenge on god.
+Rank:10　Its wielder cannot die easily.
+Rank:10　Its wielder cannot die easily.
+Rank:10　Its wielder cannot die easily.
+Rank:6　A buster with basic abilities.
+Rank:6　A longblade with basic abilities. Blaze/Bomb
+Rank:6　A shortblade with basic abilities.
+Rank:6　A blaster with basic abilities.
+Rank:6　A sniper with basic abilities.
+Rank:6　An assault with basic abilities.
+Rank:6　A buckler with basic abilities.
+Rank:6　A shield with basic abilities.
+Rank:6　A tower with basic abilities.
+Rank:10　A gun that can pierce through god.
+Rank:10　A gun that can pierce through god.
+Rank:10　A gun that can pierce through god.
+Rank:10　Grants your allies holy protection.
+Rank:10　Grants your allies holy protection.
+Rank:10　Grants your allies holy protection.
+Special reward to exchange with mats.
+Special reward to exchange with mats.
+Special reward to exchange with mats.
