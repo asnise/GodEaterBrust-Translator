@@ -1,8 +1,9 @@
 ```sh
 — อยากจะช่วยแปลภาษาไทย?
 — เริ่มศึกษาการทำงานของ github แล้วเริ่มแปลได้เลย
-— [วิธีใช้](https://www.youtube.com/watch?v=s7gBpsFuIuY)
 ```
+
+[วิธีใช้ GitHUB](https://www.youtube.com/watch?v=s7gBpsFuIuY)
 
 # คำกลาง 
   1. `มอนสเตอร์` `ไอเทม` `อาวุธ` จะใช้ชื่อเป็นภาษาอังกฤษ
