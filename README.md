@@ -1,0 +1,1 @@
+# GodEaterBrust-Translator
